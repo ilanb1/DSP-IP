@@ -2,6 +2,6 @@
 
 1) hands on Mnist dataset
 
-2) Drawing: functions to draw random shapes, and trying to classifying them.
+2) Drawing: functions to draw random shapes, and building model to classify them.
 
 3) face swapping
